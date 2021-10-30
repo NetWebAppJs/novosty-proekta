@@ -3,7 +3,7 @@
 var COLOR = "#070e0f"
 var MESSAGE = document.getElementById("title-desktop").textContent;
 
-var FONT_SIZE = 100;
+var FONT_SIZE = 150;
 var AMOUNT = 3000;
 var CLEAR_AMOUNT = 2;
 var SIZE = 2;
