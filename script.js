@@ -1,4 +1,4 @@
-var str = ["Новости", "Проекта", "Constructor" ,"Script"/*,"Keerotic"*/ ];
+var str = ["Твитты", "Проекта", "Constructor" ,"Script","&#11015" ];
 
 var c = document.getElementById('c');
 $(window).resize(function() {
@@ -58,7 +58,7 @@ function run() {
             var d = img.data;
             var w = Math.floor(canvas.width / 1);
             var h = Math.floor(canvas.height / 1);
-            for (var j = 0; j < h; j += 5) {
+            for (var j = 0; j < h; j += 3) {
                 for (var i = 0; i < w; i += 2) {
                     var n = (j * w + i) * 4;
                     /*d[n] = 255;
