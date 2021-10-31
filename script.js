@@ -1,4 +1,4 @@
-var str = ["Твитты", "Проекта", "Constructor" ,"Script","⬇" ];
+var str = ["Твиты", "Проекта", "Constructor" ,"Script","⬇" ];
 
 var c = document.getElementById('c');
 $(window).resize(function() {
