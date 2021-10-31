@@ -29,7 +29,7 @@ function render() {
         var dr = Math.abs(dots[i].r - dots[i].R) / 10;
         var da = Math.abs(dots[i].a - dots[i].A) / 10;
         ctx.beginPath();
-        ctx.fillStyle = "rgb(6, 22, 5," + dots[i].a + ")";
+        ctx.fillStyle = "rgb(58, 231, 159," + dots[i].a + ")";
         ctx.arc(dots[i].x, dots[i].y, dots[i].r, 0, 2 * Math.PI);
         ctx.fill();
 
