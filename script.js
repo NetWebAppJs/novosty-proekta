@@ -1,4 +1,4 @@
-var str = ["Новости", "Проекта", "ConstructorScript" /*,"ABCDEFG","Keerotic"*/ ];
+var str = ["Новости", "Проекта", "Constructor" ,"Script"/*,"Keerotic"*/ ];
 
 var c = document.getElementById('c');
 $(window).resize(function() {
