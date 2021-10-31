@@ -10,12 +10,12 @@
 html,
 body {
     width: 100%;
-    height: 100%;
+   height: 100%;
     background: #000;
-    background-image: url(https://64.media.tumblr.com/f2ce65bef36a3c12324b8721e3d7a2e1/7a0522c95fd9ab9a-ef/s1280x1920/e37a4dbbfadba87e863dfcf778735d62a7d35a52.png);
+   /* background-image: url(https://64.media.tumblr.com/f2ce65bef36a3c12324b8721e3d7a2e1/7a0522c95fd9ab9a-ef/s1280x1920/e37a4dbbfadba87e863dfcf778735d62a7d35a52.png);
     background-repeat: no-repeat;
     background-position: center;
-    overflow: hidden;
+    overflow: hidden;*/
 }
 
 .container {
